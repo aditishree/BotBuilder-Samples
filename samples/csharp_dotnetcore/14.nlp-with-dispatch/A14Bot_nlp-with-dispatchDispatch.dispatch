@@ -1,0 +1,59 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "appId": "cf1d5d1e-be5f-4c8e-89d9-d4288c716f92",
+      "authoringKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+      "subscriptionKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "A14Bot_Home Automation",
+      "id": "7"
+    },
+    {
+      "appId": "35a5c525-67d2-4220-a51a-ee8185a684d1",
+      "authoringKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+      "subscriptionKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "A14Bot_Weather",
+      "id": "50"
+    },
+    {
+      "kbId": "183df37f-48d9-44c3-96aa-961a94dec8e2",
+      "subscriptionKey": "f5420df68b79492bb69a2799ddc706e1",
+      "hostname": "https://a14bot-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "d34eaca9-acea-4825-bc42-367d24d5c8f9",
+      "type": "qna",
+      "name": "sample-qna",
+      "id": "201"
+    },
+    {
+      "kbId": "eedfcf3e-127f-4eed-ab63-48de96bb62bb",
+      "subscriptionKey": "f5420df68b79492bb69a2799ddc706e1",
+      "hostname": "https://a14bot-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "d34eaca9-acea-4825-bc42-367d24d5c8f9",
+      "type": "qna",
+      "name": "links",
+      "id": "202"
+    }
+  ],
+  "serviceIds": [
+    "7",
+    "50",
+    "201",
+    "202"
+  ],
+  "appId": "3b4f5eba-efcf-4f74-ba54-469c3a41f0b7",
+  "authoringKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+  "subscriptionKey": "08aa7f724e4b471aa3ff6d88929ff6e9",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "A14Bot_nlp-with-dispatchDispatch"
+}

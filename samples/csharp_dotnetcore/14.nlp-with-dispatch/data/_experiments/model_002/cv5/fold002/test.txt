@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	set lights to bright
+l_A14Bot_Home Automation	4.375	turn off venice lamp
+l_A14Bot_Home Automation	4.375	living room lamp on please
+l_A14Bot_Home Automation	4.375	turn thermostat on 70.
+l_A14Bot_Home Automation	4.375	living room lamps off please
+l_A14Bot_Home Automation	4.375	coffee bar on please
+l_A14Bot_Home Automation	4.375	illuminate please
+l_A14Bot_Home Automation	4.375	snap switch fan fifty percent
+l_A14Bot_Home Automation	4.375	set lights to bright
+l_A14Bot_Home Automation	4.375	turn off venice lamp
+l_A14Bot_Home Automation	4.375	living room lamp on please
+l_A14Bot_Home Automation	4.375	turn thermostat on 70.
+l_A14Bot_Home Automation	4.375	living room lamps off please
+l_A14Bot_Home Automation	4.375	coffee bar on please
+l_A14Bot_Home Automation	4.375	illuminate please
+l_A14Bot_Home Automation	4.375	snap switch fan fifty percent
+l_A14Bot_Weather	7	what will the weather be tomorrow in new york
+l_A14Bot_Weather	7	get the daily temperature greenwood indiana
+l_A14Bot_Weather	7	what is the rain volume in sonoma county
+l_A14Bot_Weather	7	what to wear in march in california
+l_A14Bot_Weather	7	get the forecast for me
+l_A14Bot_Weather	7	what will the weather be tomorrow in new york
+l_A14Bot_Weather	7	get the daily temperature greenwood indiana
+l_A14Bot_Weather	7	what is the rain volume in sonoma county
+l_A14Bot_Weather	7	what to wear in march in california
+l_A14Bot_Weather	7	get the forecast for me
+q_links	4.117647	Area14 Documents Page Link
+q_links	4.117647	Where can I access Ticket status
+q_links	4.117647	What's the link to Project Management
+q_links	4.117647	Link to Ticket status page
+q_links	4.117647	Where can I access project list
+q_links	4.117647	Access leave calendar
+q_links	4.117647	What's the link to Ticket status
+q_links	4.117647	What's the link to Area14 Documents page
+q_links	4.117647	I want to check Ticket status
+q_links	4.117647	I want to access leave calendar
+q_links	4.117647	Project list page
+q_links	4.117647	How do I access Project Management
+q_links	4.117647	I want to access Project Management
+q_links	4.117647	Link to Project Management page
+q_links	4.117647	Resource Management
+q_links	4.117647	Where is leave calender
+q_links	4.117647	Area14 Resource Management Link
+q_sample-qna	7	Who are you
+q_sample-qna	7	hi
+q_sample-qna	7	Who are you
+q_sample-qna	7	hi
+q_sample-qna	7	Who are you
+q_sample-qna	7	hi
+q_sample-qna	7	Who are you
+q_sample-qna	7	hi
+q_sample-qna	7	Who are you
+q_sample-qna	7	hi

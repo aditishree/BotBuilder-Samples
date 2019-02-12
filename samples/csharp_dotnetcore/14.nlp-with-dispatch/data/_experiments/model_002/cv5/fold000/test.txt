@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	make some coffee
+l_A14Bot_Home Automation	4.375	turn off living room light
+l_A14Bot_Home Automation	4.375	change temperature to seventy two degrees
+l_A14Bot_Home Automation	4.375	turn the fan to high
+l_A14Bot_Home Automation	4.375	turn on bathroom heater
+l_A14Bot_Home Automation	4.375	fish pond on please
+l_A14Bot_Home Automation	4.375	turn on the furnace room lights
+l_A14Bot_Home Automation	4.375	lock the doors for me please
+l_A14Bot_Home Automation	4.375	make some coffee
+l_A14Bot_Home Automation	4.375	turn off living room light
+l_A14Bot_Home Automation	4.375	change temperature to seventy two degrees
+l_A14Bot_Home Automation	4.375	turn the fan to high
+l_A14Bot_Home Automation	4.375	turn on bathroom heater
+l_A14Bot_Home Automation	4.375	fish pond on please
+l_A14Bot_Home Automation	4.375	turn on the furnace room lights
+l_A14Bot_Home Automation	4.375	lock the doors for me please
+l_A14Bot_Weather	7	show average rainfall for boise
+l_A14Bot_Weather	7	how much rain does chambersburg get a year
+l_A14Bot_Weather	7	do florida residents usually need ice scrapers
+l_A14Bot_Weather	7	forecast in celcius
+l_A14Bot_Weather	7	get for me the weather conditions in sonoma county
+l_A14Bot_Weather	7	show average rainfall for boise
+l_A14Bot_Weather	7	how much rain does chambersburg get a year
+l_A14Bot_Weather	7	do florida residents usually need ice scrapers
+l_A14Bot_Weather	7	forecast in celcius
+l_A14Bot_Weather	7	get for me the weather conditions in sonoma county
+q_links	4.117647	Area14 Dashboard Link
+q_links	4.117647	What's the link to project list
+q_links	4.117647	Location to project list
+q_links	4.117647	Area14 Status Dashboard
+q_links	4.117647	Project Management
+q_links	4.117647	Area14 Project Management Link
+q_links	4.117647	Documents tab
+q_links	4.117647	What's the link to Area14 Resource Management
+q_links	4.117647	I want to access Documents page
+q_links	4.117647	Area14 Ticket status Link
+q_links	4.117647	Where is project list
+q_links	4.117647	How do I access leave calendar
+q_links	4.117647	Link to project list
+q_links	4.117647	What's the link to leave calendar
+q_links	4.117647	I want to access Dashboard
+q_links	4.117647	Leave calender
+q_links	4.117647	Location to Resource Management
+q_sample-qna	7	What should I call you
+q_sample-qna	7	greetings
+q_sample-qna	7	What should I call you
+q_sample-qna	7	greetings
+q_sample-qna	7	What should I call you
+q_sample-qna	7	greetings
+q_sample-qna	7	What should I call you
+q_sample-qna	7	greetings
+q_sample-qna	7	What should I call you
+q_sample-qna	7	greetings

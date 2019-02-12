@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	fish pond off please
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Home Automation	4.375	theater on please
+l_A14Bot_Home Automation	4.375	make camera 1 off please
+l_A14Bot_Home Automation	4.375	turn off ac please
+l_A14Bot_Home Automation	4.375	lower your volume
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	shut down my work computer
+l_A14Bot_Home Automation	4.375	fish pond off please
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Home Automation	4.375	theater on please
+l_A14Bot_Home Automation	4.375	make camera 1 off please
+l_A14Bot_Home Automation	4.375	turn off ac please
+l_A14Bot_Home Automation	4.375	lower your volume
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	shut down my work computer
+l_A14Bot_Weather	7	temperature of delhi in celsius please
+l_A14Bot_Weather	7	get florence temperature in september
+l_A14Bot_Weather	7	what is the weather today at 10 day durham
+l_A14Bot_Weather	7	soliciting today's weather
+l_A14Bot_Weather	7	get the weather at saint george utah
+l_A14Bot_Weather	7	temperature of delhi in celsius please
+l_A14Bot_Weather	7	get florence temperature in september
+l_A14Bot_Weather	7	what is the weather today at 10 day durham
+l_A14Bot_Weather	7	soliciting today's weather
+l_A14Bot_Weather	7	get the weather at saint george utah
+q_links	4.117647	How do I access project list
+q_links	4.117647	I want to access Resource Management
+q_links	4.117647	Documents Page
+q_links	4.117647	What's the link to Status Dashboard
+q_links	4.117647	Link to Documents page
+q_links	4.117647	Link to leave calendar
+q_links	4.117647	What's the link to Area14 Project Management
+q_links	4.117647	Where is Documents page
+q_links	4.117647	Location to Documents page
+q_links	4.117647	I want to access project list
+q_links	4.117647	Location to Dashboard
+q_links	4.117647	Link to Resource Management page
+q_links	4.117647	I want to see Resource Management
+q_links	4.117647	Location to Ticket status
+q_links	4.117647	Access Ticket status
+q_links	4.117647	Where is Dashboard
+q_links	4.117647	How do I access Ticket status
+q_sample-qna	7	good evening
+q_sample-qna	7	good morning
+q_sample-qna	7	good evening
+q_sample-qna	7	good morning
+q_sample-qna	7	good evening
+q_sample-qna	7	good morning
+q_sample-qna	7	good evening
+q_sample-qna	7	good morning
+q_sample-qna	7	good evening
+q_sample-qna	7	good morning

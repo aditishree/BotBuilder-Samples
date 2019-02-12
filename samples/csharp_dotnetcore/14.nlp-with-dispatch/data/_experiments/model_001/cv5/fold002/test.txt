@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	make some coffee
+l_A14Bot_Home Automation	4.375	living room lamps off please
+l_A14Bot_Home Automation	4.375	turn on kitchen faucet
+l_A14Bot_Home Automation	4.375	turn thermostat on 70.
+l_A14Bot_Home Automation	4.375	turn off venice lamp
+l_A14Bot_Home Automation	4.375	turn on bathroom heater
+l_A14Bot_Home Automation	4.375	coffee bar on please
+l_A14Bot_Home Automation	4.375	turn off ac please
+l_A14Bot_Home Automation	4.375	make some coffee
+l_A14Bot_Home Automation	4.375	living room lamps off please
+l_A14Bot_Home Automation	4.375	turn on kitchen faucet
+l_A14Bot_Home Automation	4.375	turn thermostat on 70.
+l_A14Bot_Home Automation	4.375	turn off venice lamp
+l_A14Bot_Home Automation	4.375	turn on bathroom heater
+l_A14Bot_Home Automation	4.375	coffee bar on please
+l_A14Bot_Home Automation	4.375	turn off ac please
+l_A14Bot_Weather	7	was last year about this time as wet as it is now in the south
+l_A14Bot_Weather	7	do florida residents usually need ice scrapers
+l_A14Bot_Weather	7	get florence temperature in september
+l_A14Bot_Weather	7	what to wear in march in california
+l_A14Bot_Weather	7	will it be raining in ranchi
+l_A14Bot_Weather	7	was last year about this time as wet as it is now in the south
+l_A14Bot_Weather	7	do florida residents usually need ice scrapers
+l_A14Bot_Weather	7	get florence temperature in september
+l_A14Bot_Weather	7	what to wear in march in california
+l_A14Bot_Weather	7	will it be raining in ranchi
+q_links	4.117647	Project list
+q_links	4.117647	Where is Resource Management page
+q_links	4.117647	What's the link to Ticket status page
+q_links	4.117647	What's the link to Area14 Resource Management
+q_links	4.117647	How do I access project list
+q_links	4.117647	Location to Dashboard
+q_links	4.117647	Where is Dashboard
+q_links	4.117647	I want to access Resource Management
+q_links	4.117647	Location to Resource Management
+q_links	4.117647	Project list page
+q_links	4.117647	Where can I access leave calendar
+q_links	4.117647	Access leave calendar
+q_links	4.117647	How do I access Resource Management
+q_links	4.117647	Documents Page
+q_links	4.117647	Link to Project Management page
+q_links	4.117647	What's the link to Dashboard
+q_links	4.117647	Project list link
+q_sample-qna	7	hi
+q_sample-qna	7	good morning
+q_sample-qna	7	hi
+q_sample-qna	7	good morning
+q_sample-qna	7	hi
+q_sample-qna	7	good morning
+q_sample-qna	7	hi
+q_sample-qna	7	good morning
+q_sample-qna	7	hi
+q_sample-qna	7	good morning

@@ -1,0 +1,125 @@
+{
+    "name": "A14Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "appId": "d21b951f-8df1-4b78-8674-db3ea862bb98",
+            "id": "3",
+            "name": "A14Bot",
+            "resourceGroup": "A14Bot",
+            "serviceName": "A14Bot",
+            "subscriptionId": "ee31bd31-b599-478f-8b75-5e34b5e11a6f",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        },
+        {
+            "type": "endpoint",
+            "appId": "d21b951f-8df1-4b78-8674-db3ea862bb98",
+            "appPassword": "N+r81hUtxCImMAYTcOuzFw==!6Av8cTnFfENMk5ZlBk06TOOaclvdX1s+FWAb7pgOQOo=",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1",
+            "name": "development"
+        },
+        {
+            "type": "endpoint",
+            "appId": "d21b951f-8df1-4b78-8674-db3ea862bb98",
+            "appPassword": "bmRlfOkm4Mz47B55fYWKxA==!3DMynBcPgYbBkKOYyJShuu/JBbzMsnf/chLa5pmhNoM=",
+            "endpoint": "https://14ot67h3.azurewebsites.net/api/messages",
+            "id": "65",
+            "name": "production"
+        },
+        {
+            "type": "endpoint",
+            "appId": "d21b951f-8df1-4b78-8674-db3ea862bb98",
+            "appPassword": "YNh/2o11BH0oQF4ecxsYag==!qxedwbLun21gBawfeVXhAmZbmQBZT/UjRtx8u1IcM48=",
+            "endpoint": "https://14ot67h3.azurewebsites.net/api/messages",
+            "id": "2",
+            "name": "production"
+        },
+        {
+            "type": "luis",
+            "appId": "cf1d5d1e-be5f-4c8e-89d9-d4288c716f92",
+            "authoringKey": "ICENktlZvQ+LSQZCDiwhHA==!5yf2WMpoo1bMIYd2cObLyMQMzwdpVcbpC8SHAjwTgpLtl+QPMIHVvtNYG9pz2ysq",
+            "id": "7",
+            "name": "A14Bot_Home Automation",
+            "region": "westus",
+            "subscriptionKey": "twSswCu08mf3JKDoTh2ExQ==!RaH31YdoI0Fk7wsEKvbY86nCDf59Em/MTy6qQ1Q/2OpYDWtAahSHbFWdTH/IAuWZ",
+            "version": "0.1"
+        },
+        {
+            "type": "luis",
+            "appId": "35a5c525-67d2-4220-a51a-ee8185a684d1",
+            "authoringKey": "jox6bwSik7W38nQWFNLlQg==!qJs4CaAD/Eq1r6xIhCvT+NyRxnjZ11IzvN5b6qkQLTHvJE70MGrEEEiQR3synt63",
+            "id": "50",
+            "name": "A14Bot_Weather",
+            "region": "westus",
+            "subscriptionKey": "JrMN2M/GdEz8OZQnqx/W7g==!O47CZi3NNmPBRy29NEIqEGtNE0tFsx2e7nY3kem6yFuV58e6NVPan+MA2SQLJMhR",
+            "version": "0.1"
+        },
+        {
+            "type": "qna",
+            "endpointKey": "aPFFEYidK8rpr0O3b8le5A==!Js1jhJC59opfdwIgprSZkHYzHlKfYsc6DDmX7Bjttb5JzC9hXoQuTdZMYTu60pfl",
+            "hostname": "https://a14bot-qnahost.azurewebsites.net/qnamaker",
+            "id": "201",
+            "kbId": "183df37f-48d9-44c3-96aa-961a94dec8e2",
+            "name": "sample-qna",
+            "subscriptionKey": "avlP4Ae7TjkXBXjQxtCyUw==!BR1riJtxvfh+EJ/0eQhf57qUozsmOAJSxEIHNTWRI4VKKlOYhbqkvLkA80FrYgqd"
+        },
+        {
+            "type": "qna",
+            "endpointKey": "znNkqEzdeMa13eHsPwS1jQ==!O/3kQ7pcTnMTC8G+ac/GFtJSQvfHwYbhCVDyRvARQInEYJXsRYBLUxCAEJa4wMf3",
+            "hostname": "https://A14Bot-qnahost.azurewebsites.net",
+            "id": "202",
+            "kbId": "eedfcf3e-127f-4eed-ab63-48de96bb62bb",
+            "name": "links",
+            "subscriptionKey": "7u6u0m5L7lM5pDCayE1iyQ==!Yh/cqq1SuwN3H1hA247JfIcjuytPolE9kAlUCQsBZrTcdIiNI4xVDxYPGaDFCJ13"
+        },
+        {
+            "type": "dispatch",
+            "appId": "3b4f5eba-efcf-4f74-ba54-469c3a41f0b7",
+            "authoringKey": "ahA0htJ7+oukyqrR6fTQWA==!PHfx5aw6zmwBP0fZNYAl7NM3m12ZLcLFT2lqYSw5ccVTmpUICil5pFnim0Icj8DT",
+            "id": "161",
+            "name": "A14Bot_nlp-with-dispatchDispatch",
+            "region": "westus",
+            "serviceIds": [
+                "7",
+                "50",
+                "201",
+                "202"
+            ],
+            "subscriptionKey": "xMHbEWdhhDBvH+d+XWFeoQ==!+NXQCy18+mpI4toZkVk/2ElhA2uifnAbD33mRBltVOQRM8fldMO2hlFan85AIR+U",
+            "version": "Dispatch"
+        },
+        {
+            "type": "appInsights",
+            "apiKeys": {},
+            "applicationId": "ed08391a-8f1a-4e1e-87d7-d62e59b86a1a",
+            "id": "4",
+            "instrumentationKey": "PvhWIJYJTorGo9n9yobcEA==!oOj2zDl2yHs1rBsVt3dELrCBkm9jLvsytFSYN9+N4S0NBex6Qjj75OlsM7TIVtkq",
+            "name": "A14Botgguqht",
+            "resourceGroup": "A14Bot",
+            "serviceName": "A14Botgguqht",
+            "subscriptionId": "ee31bd31-b599-478f-8b75-5e34b5e11a6f",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        },
+        {
+            "type": "blob",
+            "connectionString": "aFZqzCAX9vqqs3Q3Y/utLw==!tDG+Td7qhWNSx5g4u3UeN8ogIVfXZKFc9p97B+ug8V321+0hUfeXMnCK+elbDx5cvnZI/48bjeuT016jASaer1uCkkPrQ3yCzTa7APGmFG1Ua0E/FhpiPeg0qr5t3x+H2qzvD0UyQvZYLjxehs85S7IAoNSoXE36a/UpEbR1l6CK7pEpoAnAJ7pmI9m/QR/um4KoCrIU1+58R3iThFx4p07Vwo8CoqfdiJMMVzXLTTPAUgYzpcX1ymXfqc/oYS0V",
+            "container": "botstatestore",
+            "id": "5",
+            "name": "14otsx8v",
+            "resourceGroup": "A14Bot",
+            "serviceName": "14otsx8v",
+            "subscriptionId": "ee31bd31-b599-478f-8b75-5e34b5e11a6f",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        }
+    ],
+    "padlock": "+7ItEKojQKrAoyWJotzksg==!OmMht2oYuwGsg3zAeFLDMX9TfR87UBodt1JUCEzr8kb9DtuXx8BijmCcSNWEdu4Z",
+    "version": "2.0",
+    "path": "C:\\Users\\ad\\Documents\\github\\samples\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\A14Bot.bot",
+    "overrides": {
+        "endpoint": {
+            "id": "2"
+        }
+    }
+}

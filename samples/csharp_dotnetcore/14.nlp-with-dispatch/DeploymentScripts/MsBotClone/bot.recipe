@@ -2,10 +2,21 @@
   "version": "1.0",
   "resources": [
     {
+      "type": "abs",
+      "id": "3",
+      "name": "Dispatch-Bot"
+    },
+    {
       "type": "endpoint",
       "id": "1",
       "name": "development",
       "url": "http://localhost:3978/api/messages"
+    },
+    {
+      "type": "endpoint",
+      "id": "2",
+      "name": "production",
+      "url": "https://your-bot-url.azurewebsites.net/api/messages"
     },
     {
       "type": "luis",
@@ -23,25 +34,20 @@
       "name": "sample-qna"
     },
     {
+      "type": "qna",
+      "id": "202",
+      "name": "links"
+    },
+    {
       "type": "dispatch",
       "id": "161",
       "name": "nlp-with-dispatchDispatch",
       "serviceIds": [
         "7",
         "50",
-        "201"
+        "201",
+        "202"
       ]
-    },
-    {
-      "type": "endpoint",
-      "id": "2",
-      "name": "production",
-      "url": "https://your-bot-url.azurewebsites.net/api/messages"
-    },
-    {
-      "type": "abs",
-      "id": "3",
-      "name": "Dispatch-Bot"
     },
     {
       "type": "appInsights",

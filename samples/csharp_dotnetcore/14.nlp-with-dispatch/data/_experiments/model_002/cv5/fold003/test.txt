@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	start master bedroom light.
+l_A14Bot_Home Automation	4.375	turn on light in bedroom
+l_A14Bot_Home Automation	4.375	turn on my bedroom lights.
+l_A14Bot_Home Automation	4.375	turn on thermostat please
+l_A14Bot_Home Automation	4.375	set lights out in bedroom
+l_A14Bot_Home Automation	4.375	turn on kitchen faucet
+l_A14Bot_Home Automation	4.375	play dvd
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Home Automation	4.375	start master bedroom light.
+l_A14Bot_Home Automation	4.375	turn on light in bedroom
+l_A14Bot_Home Automation	4.375	turn on my bedroom lights.
+l_A14Bot_Home Automation	4.375	turn on thermostat please
+l_A14Bot_Home Automation	4.375	set lights out in bedroom
+l_A14Bot_Home Automation	4.375	turn on kitchen faucet
+l_A14Bot_Home Automation	4.375	play dvd
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Weather	7	what's the weather like in minneapolis
+l_A14Bot_Weather	7	will it rain this weekend
+l_A14Bot_Weather	7	show me the forecast at alabama
+l_A14Bot_Weather	7	what is the weather in redmond
+l_A14Bot_Weather	7	will it be raining in ranchi
+l_A14Bot_Weather	7	what's the weather like in minneapolis
+l_A14Bot_Weather	7	will it rain this weekend
+l_A14Bot_Weather	7	show me the forecast at alabama
+l_A14Bot_Weather	7	what is the weather in redmond
+l_A14Bot_Weather	7	will it be raining in ranchi
+q_links	4.117647	How do I access Documents page
+q_links	4.117647	Project Management Page
+q_links	4.117647	Location to leave calendar
+q_links	4.117647	Access project list
+q_links	4.117647	What's the link to Resource Management
+q_links	4.117647	Where is Project Management page
+q_links	4.117647	I want to see Project Management
+q_links	4.117647	Location to Project Management
+q_links	4.117647	Where is Resource Management page
+q_links	4.117647	What's the link to Ticket status page
+q_links	4.117647	Area14 Status dashboard link
+q_links	4.117647	Where can I access Documents page
+q_links	4.117647	Project list
+q_links	4.117647	How do I access Dashboard
+q_links	4.117647	Ticket status Page
+q_links	4.117647	Where can I access leave calendar
+q_links	4.117647	Where can I access Resource Management
+q_sample-qna	7	What do you do
+q_sample-qna	7	What are you
+q_sample-qna	7	What do you do
+q_sample-qna	7	What are you
+q_sample-qna	7	What do you do
+q_sample-qna	7	What are you
+q_sample-qna	7	What do you do
+q_sample-qna	7	What are you
+q_sample-qna	7	What do you do
+q_sample-qna	7	What are you

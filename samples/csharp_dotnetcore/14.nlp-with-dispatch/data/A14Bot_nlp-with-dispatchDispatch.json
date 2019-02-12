@@ -1,0 +1,88 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "A14Bot_nlp-with-dispatchDispatch",
+  "desc": "Dispatch model for A14Bot_nlp-with-dispatchDispatch",
+  "culture": "en-us",
+  "intents": [],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [
+    {
+      "name": "Device_PatternAny",
+      "explicitList": [],
+      "roles": []
+    },
+    {
+      "name": "Room_PatternAny",
+      "explicitList": [],
+      "roles": []
+    },
+    {
+      "name": "Location_PatternAny",
+      "explicitList": [],
+      "roles": []
+    }
+  ],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "{Device_PatternAny} on [please]",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "turn on {Device_PatternAny} in {Room_PatternAny}",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "{Device_PatternAny} in {Room_PatternAny} on [please]",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "turn off {Device_PatternAny} in {Room_PatternAny}",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "{Device_PatternAny} off [please]",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "{Device_PatternAny} in {Room_PatternAny} off [please]",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "turn on {Device_PatternAny}",
+      "intent": "l_A14Bot_Home Automation"
+    },
+    {
+      "pattern": "how's the weather in {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    },
+    {
+      "pattern": "current weather in {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    },
+    {
+      "pattern": "what's the forecast for next week in {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    },
+    {
+      "pattern": "show me the forecast for {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    },
+    {
+      "pattern": "what's the forecast for {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    },
+    {
+      "pattern": "weather in {Location_PatternAny}",
+      "intent": "l_A14Bot_Weather"
+    }
+  ],
+  "utterances": [],
+  "settings": []
+}

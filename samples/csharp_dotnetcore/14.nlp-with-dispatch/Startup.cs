@@ -37,7 +37,10 @@ namespace NLP_With_Dispatch_Bot
                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
                 .AddEnvironmentVariables();
 
-            Configuration = builder.Build();
+            if (env.IsDevelopment()) 
+                builder.AddUserSecrets<Startup>();
+
+                Configuration = builder.Build();
         }
 
         /// <summary>
@@ -81,7 +84,6 @@ namespace NLP_With_Dispatch_Bot
 
             services.AddBot<NlpDispatchBot>(options =>
             {
-
                 options.CredentialProvider = new SimpleCredentialProvider(endpointService.AppId, endpointService.AppPassword);
 
                 // Creates a logger for the application to use.

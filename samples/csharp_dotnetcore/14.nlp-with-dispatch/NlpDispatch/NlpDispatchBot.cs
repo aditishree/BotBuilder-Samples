@@ -22,28 +22,34 @@ namespace NLP_With_Dispatch_Bot
     /// </summary>
     public class NlpDispatchBot : IBot
     {
-        private const string WelcomeText = "This bot will introduce you to Dispatch for QnA Maker and LUIS. Type a greeting, or a question about the weather to get started";
+        private const string WelcomeText = "This bot will help you navigate through Area 14 internal website. Type a greeting, or a question like location to Documents folder or Leave calender. ";
 
         /// <summary>
         /// Key in the Bot config (.bot file) for the Home Automation Luis instance.
         /// </summary>
-        private const string HomeAutomationLuisKey = "Home Automation";
+        private const string HomeAutomationLuisKey = "A14Bot_Home Automation";
 
         /// <summary>
         /// Key in the Bot config (.bot file) for the Weather Luis instance.
         /// </summary>
-        private const string WeatherLuisKey = "Weather";
+        private const string WeatherLuisKey = "A14Bot_Weather";
 
         /// <summary>
         /// Key in the Bot config (.bot file) for the Dispatch.
         /// </summary>
-        private const string DispatchKey = "nlp-with-dispatchDispatch";
+        private const string DispatchKey = "A14Bot_nlp-with-dispatchDispatch";
 
         /// <summary>
         /// Key in the Bot config (.bot file) for the QnaMaker instance.
         /// In the .bot file, multiple instances of QnaMaker can be configured.
         /// </summary>
         private const string QnAMakerKey = "sample-qna";
+
+        /// <summary>
+        /// Key in the Bot config (.bot file) for the QnaMaker instance.
+        /// In the .bot file, multiple instances of QnaMaker can be configured.
+        /// </summary>
+        private const string LinksQnaMakerKey = "links";
 
         /// <summary>
         /// Services configured from the ".bot" file.
@@ -59,6 +65,11 @@ namespace NLP_With_Dispatch_Bot
             _services = services ?? throw new System.ArgumentNullException(nameof(services));
 
             if (!_services.QnAServices.ContainsKey(QnAMakerKey))
+            {
+                throw new System.ArgumentException($"Invalid configuration. Please check your '.bot' file for a QnA service named '{DispatchKey}'.");
+            }
+
+            if (!_services.QnAServices.ContainsKey(LinksQnaMakerKey))
             {
                 throw new System.ArgumentException($"Invalid configuration. Please check your '.bot' file for a QnA service named '{DispatchKey}'.");
             }
@@ -145,6 +156,7 @@ namespace NLP_With_Dispatch_Bot
             const string weatherDispatchKey = "l_Weather";
             const string noneDispatchKey = "None";
             const string qnaDispatchKey = "q_sample-qna";
+            const string linksQnaDispatchKey = "q_links";
 
             switch (topIntent.Value.intent)
             {
@@ -164,6 +176,9 @@ namespace NLP_With_Dispatch_Bot
                     // In this example we fall through to the QnA intent.
                 case qnaDispatchKey:
                     await DispatchToQnAMakerAsync(context, QnAMakerKey);
+                    break;
+                case linksQnaDispatchKey:
+                    await DispatchToQnAMakerAsync(context, LinksQnaMakerKey);
                     break;
 
                 default:

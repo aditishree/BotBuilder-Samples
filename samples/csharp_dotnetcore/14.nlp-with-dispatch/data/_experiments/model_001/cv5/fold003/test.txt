@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	living room lamp on please
+l_A14Bot_Home Automation	4.375	breezeway on please
+l_A14Bot_Home Automation	4.375	turn on thermostat please
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Home Automation	4.375	set lights out in bedroom
+l_A14Bot_Home Automation	4.375	start master bedroom light.
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Home Automation	4.375	living room lamp on please
+l_A14Bot_Home Automation	4.375	breezeway on please
+l_A14Bot_Home Automation	4.375	turn on thermostat please
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Home Automation	4.375	set lights out in bedroom
+l_A14Bot_Home Automation	4.375	start master bedroom light.
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Weather	7	i want to know the temperature at death valley
+l_A14Bot_Weather	7	soliciting today's weather
+l_A14Bot_Weather	7	get the daily temperature greenwood indiana
+l_A14Bot_Weather	7	what is the weather today at 10 day durham
+l_A14Bot_Weather	7	what is the rain volume in sonoma county
+l_A14Bot_Weather	7	i want to know the temperature at death valley
+l_A14Bot_Weather	7	soliciting today's weather
+l_A14Bot_Weather	7	get the daily temperature greenwood indiana
+l_A14Bot_Weather	7	what is the weather today at 10 day durham
+l_A14Bot_Weather	7	what is the rain volume in sonoma county
+q_links	4.117647	Leave calendar link
+q_links	4.117647	What's the link to Documents page
+q_links	4.117647	What's the link to Resource Management
+q_links	4.117647	Link to project list
+q_links	4.117647	I want to see Resource Management
+q_links	4.117647	How do I access Project Management
+q_links	4.117647	Access Project Management
+q_links	4.117647	Location to Documents page
+q_links	4.117647	Access Resource Management
+q_links	4.117647	What's the link to Area14 Documents page
+q_links	4.117647	Area14 Status dashboard link
+q_links	4.117647	What's the link to Status Dashboard
+q_links	4.117647	Resource Management
+q_links	4.117647	Where can I access Dashboard
+q_links	4.117647	How do I access Dashboard
+q_links	4.117647	Area14 Resource Management Link
+q_links	4.117647	Area14 dashboard page
+q_sample-qna	7	Who are you
+q_sample-qna	7	greetings
+q_sample-qna	7	Who are you
+q_sample-qna	7	greetings
+q_sample-qna	7	Who are you
+q_sample-qna	7	greetings
+q_sample-qna	7	Who are you
+q_sample-qna	7	greetings
+q_sample-qna	7	Who are you
+q_sample-qna	7	greetings

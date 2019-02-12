@@ -1,0 +1,2 @@
+#!/bin/bash
+az bot publish --resource-group A14Bot -n A14Bot --subscription ee31bd31-b599-478f-8b75-5e34b5e11a6f -v v4 --proj-name "NLP-With-Dispatch-Bot.csproj" 

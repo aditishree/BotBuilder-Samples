@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	turn on light in bedroom
+l_A14Bot_Home Automation	4.375	set lights to concentrate
+l_A14Bot_Home Automation	4.375	change temperature to seventy two degrees
+l_A14Bot_Home Automation	4.375	fish pond on please
+l_A14Bot_Home Automation	4.375	turn off staircase
+l_A14Bot_Home Automation	4.375	shut down my work computer
+l_A14Bot_Home Automation	4.375	turn off foyer lights
+l_A14Bot_Home Automation	4.375	turn the fan to high
+l_A14Bot_Home Automation	4.375	turn on light in bedroom
+l_A14Bot_Home Automation	4.375	set lights to concentrate
+l_A14Bot_Home Automation	4.375	change temperature to seventy two degrees
+l_A14Bot_Home Automation	4.375	fish pond on please
+l_A14Bot_Home Automation	4.375	turn off staircase
+l_A14Bot_Home Automation	4.375	shut down my work computer
+l_A14Bot_Home Automation	4.375	turn off foyer lights
+l_A14Bot_Home Automation	4.375	turn the fan to high
+l_A14Bot_Weather	7	what's the weather going to be like in hawaii
+l_A14Bot_Weather	7	what will the weather be tomorrow in new york
+l_A14Bot_Weather	7	forecast in celcius
+l_A14Bot_Weather	7	how much rain does chambersburg get a year
+l_A14Bot_Weather	7	show me the forecast at alabama
+l_A14Bot_Weather	7	what's the weather going to be like in hawaii
+l_A14Bot_Weather	7	what will the weather be tomorrow in new york
+l_A14Bot_Weather	7	forecast in celcius
+l_A14Bot_Weather	7	how much rain does chambersburg get a year
+l_A14Bot_Weather	7	show me the forecast at alabama
+q_links	4.117647	Where is Documents page
+q_links	4.117647	What's the link to Area14 Project Management
+q_links	4.117647	Link to dashboard
+q_links	4.117647	Access project list
+q_links	4.117647	Where can I access Ticket status
+q_links	4.117647	Project Management
+q_links	4.117647	What's the link to Project Management
+q_links	4.117647	Link to Resource Management page
+q_links	4.117647	Access Ticket status
+q_links	4.117647	Link to leave calendar
+q_links	4.117647	Location to Project Management
+q_links	4.117647	Area14 Project Management Link
+q_links	4.117647	Resource Management Page
+q_links	4.117647	I want to access Documents page
+q_links	4.117647	Project Management Page
+q_links	4.117647	What's the link to Ticket status
+q_links	4.117647	Leave calender
+q_sample-qna	7	What
+q_sample-qna	7	What should I call you
+q_sample-qna	7	What
+q_sample-qna	7	What should I call you
+q_sample-qna	7	What
+q_sample-qna	7	What should I call you
+q_sample-qna	7	What
+q_sample-qna	7	What should I call you
+q_sample-qna	7	What
+q_sample-qna	7	What should I call you

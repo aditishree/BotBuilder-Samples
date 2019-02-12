@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	play dvd
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Home Automation	4.375	set lights to concentrate
+l_A14Bot_Home Automation	4.375	turn off foyer lights
+l_A14Bot_Home Automation	4.375	turn on external speaker
+l_A14Bot_Home Automation	4.375	decrease temperature for me please
+l_A14Bot_Home Automation	4.375	turn off staircase
+l_A14Bot_Home Automation	4.375	breezeway on please
+l_A14Bot_Home Automation	4.375	play dvd
+l_A14Bot_Home Automation	4.375	turn on the internet in my bedroom please
+l_A14Bot_Home Automation	4.375	set lights to concentrate
+l_A14Bot_Home Automation	4.375	turn off foyer lights
+l_A14Bot_Home Automation	4.375	turn on external speaker
+l_A14Bot_Home Automation	4.375	decrease temperature for me please
+l_A14Bot_Home Automation	4.375	turn off staircase
+l_A14Bot_Home Automation	4.375	breezeway on please
+l_A14Bot_Weather	7	what's the weather going to be like in hawaii
+l_A14Bot_Weather	7	was last year about this time as wet as it is now in the south
+l_A14Bot_Weather	7	i want to know the temperature at death valley
+l_A14Bot_Weather	7	will it snow today
+l_A14Bot_Weather	7	current weather
+l_A14Bot_Weather	7	what's the weather going to be like in hawaii
+l_A14Bot_Weather	7	was last year about this time as wet as it is now in the south
+l_A14Bot_Weather	7	i want to know the temperature at death valley
+l_A14Bot_Weather	7	will it snow today
+l_A14Bot_Weather	7	current weather
+q_links	4.117647	What's the link to Documents page
+q_links	4.117647	Access Resource Management
+q_links	4.117647	Where can I access Dashboard
+q_links	4.117647	Where can I access Project Management
+q_links	4.117647	Access Project Management
+q_links	4.117647	Project list link
+q_links	4.117647	Area14 Status dashboard page
+q_links	4.117647	Access Documents page
+q_links	4.117647	Leave calendar link
+q_links	4.117647	What's the link to Dashboard
+q_links	4.117647	Metalogix ticket status
+q_links	4.117647	Where is Ticket status page
+q_links	4.117647	How do I access Resource Management
+q_links	4.117647	Access Dashboard
+q_links	4.117647	Link to dashboard
+q_links	4.117647	I want to see Ticket status
+q_links	4.117647	Resource Management Page
+q_sample-qna	7	What
+q_sample-qna	7	What is your name
+q_sample-qna	7	What
+q_sample-qna	7	What is your name
+q_sample-qna	7	What
+q_sample-qna	7	What is your name
+q_sample-qna	7	What
+q_sample-qna	7	What is your name
+q_sample-qna	7	What
+q_sample-qna	7	What is your name

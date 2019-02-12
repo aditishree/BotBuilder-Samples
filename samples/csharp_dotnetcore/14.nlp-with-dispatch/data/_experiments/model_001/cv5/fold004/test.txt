@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Home Automation	4.375	set lights to bright
+l_A14Bot_Home Automation	4.375	make camera 1 off please
+l_A14Bot_Home Automation	4.375	fish pond off please
+l_A14Bot_Home Automation	4.375	lower your volume
+l_A14Bot_Home Automation	4.375	snap switch fan fifty percent
+l_A14Bot_Home Automation	4.375	turn on external speaker
+l_A14Bot_Home Automation	4.375	turn dimmer off
+l_A14Bot_Home Automation	4.375	dim kitchen lights to 25 .
+l_A14Bot_Home Automation	4.375	set lights to bright
+l_A14Bot_Home Automation	4.375	make camera 1 off please
+l_A14Bot_Home Automation	4.375	fish pond off please
+l_A14Bot_Home Automation	4.375	lower your volume
+l_A14Bot_Home Automation	4.375	snap switch fan fifty percent
+l_A14Bot_Home Automation	4.375	turn on external speaker
+l_A14Bot_Weather	7	what's the weather like in minneapolis
+l_A14Bot_Weather	7	get the forecast for me
+l_A14Bot_Weather	7	show average rainfall for boise
+l_A14Bot_Weather	7	will it rain this weekend
+l_A14Bot_Weather	7	get for me the weather conditions in sonoma county
+l_A14Bot_Weather	7	what's the weather like in minneapolis
+l_A14Bot_Weather	7	get the forecast for me
+l_A14Bot_Weather	7	show average rainfall for boise
+l_A14Bot_Weather	7	will it rain this weekend
+l_A14Bot_Weather	7	get for me the weather conditions in sonoma county
+q_links	4.117647	Access Documents page
+q_links	4.117647	Area14 Status Dashboard
+q_links	4.117647	How do I access Ticket status
+q_links	4.117647	Link to Documents page
+q_links	4.117647	Where is project list
+q_links	4.117647	Where is Ticket status page
+q_links	4.117647	Area14 Status dashboard page
+q_links	4.117647	How do I access Documents page
+q_links	4.117647	Location to project list
+q_links	4.117647	Area14 Dashboard Link
+q_links	4.117647	Location to leave calendar
+q_links	4.117647	I want to see Documents page
+q_links	4.117647	Where can I access Resource Management
+q_links	4.117647	I want to access project list
+q_links	4.117647	I want to access Dashboard
+q_links	4.117647	Location to Ticket status
+q_links	4.117647	I want to see Project Management
+q_sample-qna	7	good evening
+q_sample-qna	7	What are you
+q_sample-qna	7	good evening
+q_sample-qna	7	What are you
+q_sample-qna	7	good evening
+q_sample-qna	7	What are you
+q_sample-qna	7	good evening
+q_sample-qna	7	What are you
+q_sample-qna	7	good evening
+q_sample-qna	7	What are you
